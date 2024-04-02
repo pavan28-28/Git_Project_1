@@ -7,7 +7,7 @@ public class BigWord {
 
 Scanner x=new Scanner(System.in);
 		
-      System.out.println("***************************");
+      System.out.println("***********************");
 
 		System.out.println("Enter the String:");
 		String s=x.nextLine();
